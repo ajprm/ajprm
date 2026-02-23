@@ -1,6 +1,12 @@
-# 💫 About Me:
-🛠️ Atualmente trabalhando em<br>Criar e aprimorar projetos no GitHub<br>Aprimorar minhas habilidades em JavaScript, Python e Java<br>Desenvolver um projeto pessoal com ReactJS e NextJS<br>🤝 Busco colaborar em<br>Projetos open-source de desenvolvimento web<br>Iniciativas inovadoras com JavaScript, Python e Java<br>Hackathons e desafios de programação em equipe<br>🧠 Aprendendo mais sobre<br>Machine Learning e Deep Learning<br>Angular e desenvolvimento full-stack<br>Python com Django<br>Conceitos avançados e boas práticas em JavaScript<br>Otimização de performance em ReactJS e NextJS<br>Novos frameworks e ferramentas para desenvolvimento web<br>Fundamentos de hacking e pentest<br>⚡ Curiosidades<br>Sou uma grande entusiasta de One Piece!<br>Tenho um gato chamado Loki! 🐱
+# 💫 About Me
 
+I am a developer focused on building modern web solutions and continuously expanding my technical knowledge. I work on personal projects and hands-on learning in full-stack development, prioritizing clean code and scalable architectures.
+
+I enjoy collaborating on open-source initiatives and challenges that encourage innovation and knowledge sharing. My goal is to grow technically while contributing to efficient and well-structured solutions.
+
+I explore new technologies and industry trends to improve performance and user experience, applying best practices that enhance the quality and maintainability of software.
+
+🐱 I have a cat named Loki, who keeps me company during study sessions and daily coding.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anna-julia-santos-94445b1a5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:annajuliasantosdepaula1@gmail.com) 
